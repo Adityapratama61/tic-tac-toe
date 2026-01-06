@@ -1,16 +1,39 @@
-# React + Vite
+# 🎮 Tic Tac Toe (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Game **Tic Tac Toe** interaktif berbasis **React** yang dibuat sebagai proyek pembelajaran sekaligus **portfolio frontend**.  
+Aplikasi ini menampilkan logika permainan lengkap (menang & seri) dengan antarmuka modern dan animasi halus.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Fitur
 
-## React Compiler
+- ❌⭕ Permainan Tic Tac Toe 2 pemain (X vs O)
+- 🏆 Deteksi pemenang otomatis
+- 🤝 Deteksi hasil seri (draw)
+- 🔄 Tombol **Main Lagi** setelah game selesai
+- 🎨 UI modern dengan animasi & efek visual
+- 📱 Responsif dan ringan
+- ⚡ Dibangun menggunakan **Vite** untuk performa cepat
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Teknologi yang Digunakan
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React JS**
+- **Vite**
+- **JavaScript (ES6)**
+- **CSS (Custom styling & animation)**
+
+---
+
+## 📸 Preview
+<img width="1366" height="636" alt="image" src="https://github.com/user-attachments/assets/bfee92dd-85ce-474f-b0dc-c672f1a7c2d6" />
+
+<img width="1354" height="632" alt="image" src="https://github.com/user-attachments/assets/1c483fdb-5e3b-4526-803b-64e3a4adb5ff" />
+
+<img width="1356" height="637" alt="image" src="https://github.com/user-attachments/assets/a01bcdaa-a181-4d0a-8e02-451b600d5878" />
+
+
+```text
+Contoh:
+![Preview Tic Tac Toe](./preview.png)
