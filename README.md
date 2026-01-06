@@ -33,7 +33,3 @@ Aplikasi ini menampilkan logika permainan lengkap (menang & seri) dengan antarmu
 
 <img width="1356" height="637" alt="image" src="https://github.com/user-attachments/assets/a01bcdaa-a181-4d0a-8e02-451b600d5878" />
 
-
-```text
-Contoh:
-![Preview Tic Tac Toe](./preview.png)
